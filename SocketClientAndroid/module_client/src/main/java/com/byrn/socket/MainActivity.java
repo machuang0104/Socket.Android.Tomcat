@@ -32,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
         mConnectBtn.setOnClickListener(mOnClickListener);
         findViewById(R.id.socket_send).setOnClickListener(mOnClickListener);
         refreshView(false);
+//        mSocketIpEt.setText("218.145.64.217");
+        mSocketIpEt.setText("218.145.64.217");
+        mSocketPortEt.setText("31260/machuang");
+        mSocketDataEt.setText("Machuang_Byron");
     }
 
     private void refreshView(final boolean isConnected) {
@@ -48,7 +52,12 @@ public class MainActivity extends AppCompatActivity {
     OnClickListener mOnClickListener = v -> {
         switch (v.getId()) {
             case R.id.socket_connect:
-                switchConnect();
+                new Thread(new Runnable() {
+                    @Override
+                    public void run() {
+                        switchConnect();
+                    }
+                }).start();
                 break;
             case R.id.socket_send:
                 sendData();
@@ -72,7 +81,11 @@ public class MainActivity extends AppCompatActivity {
     private void sendData() {
         try {
             String data = mSocketDataEt.getText().toString();
-            mTcpClient.getTransceiver().send(data);
+            if (mTcpClient.isConnected()){
+                mTcpClient.getTransceiver().send(data);
+            }else {
+                Log.e("tag_event","SendData : Tcp Disconnected!");
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }

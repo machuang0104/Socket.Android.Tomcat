@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\e68320ce59cb917dd123dcfc72378be15bbc9183\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_d216732f12632a5de6b95b3bba219d21a6e7116e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\051e5ba26a41e37a8f1d32e51b66c591e19fc630\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_3c213be6a073ac74edf68a46ffae585044a265ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\f100328f4a7664b9a6db3899629b45e2713b69f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_46a53a30d47e3f0cc59390e423bf69e2820d7b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\ab394b00018b999e6dfb355df209be945efee9db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_b9c8b70911295456ad7d055c6c02ed6a9709f739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\2ac23ea8a44c61cb42b68fd200d670a9dfdbaa75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_3df15b184c498648c1a7511440ece789615a26d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\f1faa6cdc721ed0964f1baf80e53320ad49a5d20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_a5b4a65709100e2da706ab3bb72c335c34a0fe2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\a9190025b12c02ddec31728b6f32e6cdaf6c1ba4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_c936fe6bb551b61595e219a51c569580c696816b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\cd571262f77f7a0c59af873cd802d643c9e5c4ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_c63fb6648e1f730090a3e49ba63fa65d39d5e2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\4b49d82d80efde4d1a50f023f9c2156355b92af6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\classes_56969782eeae9b77b163f5f7323af1417fe83161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\GitWork\Socket.Android.Tomcat\SocketClientAndroid\module_client\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+
+</items>
