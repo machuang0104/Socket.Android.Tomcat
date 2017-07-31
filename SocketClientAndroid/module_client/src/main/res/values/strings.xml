@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocketSample</string>
+    <string name="socket_ip">IP地址</string>
+    <string name="socket_port">端口号</string>
+    <string name="socket_connect">连接</string>
+    <string name="socket_send_data">发送</string>
+    <string name="socket_send_data_hint">Data for send</string>
+    <string name="socket_status_disconnect">断开</string>
+    <string name="socket_status_connected">连接</string>
+</resources>
